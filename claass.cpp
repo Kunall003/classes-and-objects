@@ -22,7 +22,7 @@ int main() {
     return 0;
 }
 //output
-/*labdhi
+kunal
 18
 entc
 2023*/
