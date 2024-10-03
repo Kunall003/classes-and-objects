@@ -42,7 +42,7 @@ int main() {
     return 0;
 }
 //output
-/*labdhi
+kunaql
 18
 entc
 2023
